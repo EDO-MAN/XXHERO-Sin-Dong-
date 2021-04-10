@@ -4,7 +4,6 @@ using UnityEngine;
 using UnityEngine.EventSystems;
 public class BtnCilck : MonoBehaviour
 {
-    
     public Transform slots;
     public float term;
 
@@ -16,7 +15,6 @@ public class BtnCilck : MonoBehaviour
     // Update is called once per frame
     public void ClickPlay()
     {
-       
         StartCoroutine("PlaySkill");
     }
     IEnumerator PlaySkill()

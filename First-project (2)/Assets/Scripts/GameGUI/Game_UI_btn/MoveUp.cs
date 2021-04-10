@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DG.Tweening;
 
 public class MoveUp : MonoBehaviour
 {
@@ -9,7 +10,7 @@ public class MoveUp : MonoBehaviour
     public void SkillStart()
     {
         Debug.Log("PlayerTrun");
-        //StartCoroutine(Move_Up());
+        StartCoroutine(Move_Up());
     }
     IEnumerator Move_Up()
     {

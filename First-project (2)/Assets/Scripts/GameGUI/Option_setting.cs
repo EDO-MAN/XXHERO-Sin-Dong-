@@ -20,7 +20,6 @@ public class Option_setting : MonoBehaviour
     }
     public void initUI()
     {
-
         for (int i = 0; i < Screen.resolutions.Length; i++)
         {
             if (Screen.resolutions[i].refreshRate == 144|| Screen.resolutions[i].refreshRate == 60)
