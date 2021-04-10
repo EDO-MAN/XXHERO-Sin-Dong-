@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 7699007f7925dfa4ca81655fdf1e503f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tail_effect: {fileID: 8917111047435832349, guid: 1707e9d2778e8734cba6ea4c657143b7,
+      type: 3}
+  - playerTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

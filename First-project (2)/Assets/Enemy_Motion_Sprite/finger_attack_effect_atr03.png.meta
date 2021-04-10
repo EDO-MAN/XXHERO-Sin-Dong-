@@ -1,0 +1,502 @@
+fileFormatVersion: 2
+guid: 2788492a72766f0479966af2ce74d184
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1422457900439188039
+    second: finger_attack_effect_atr03_0
+  - first:
+      213: 2845007282673619258
+    second: finger_attack_effect_atr03_1
+  - first:
+      213: 5200680179176842423
+    second: finger_attack_effect_atr03_2
+  - first:
+      213: 5290677417930032074
+    second: finger_attack_effect_atr03_3
+  - first:
+      213: 3608660235996381253
+    second: finger_attack_effect_atr03_4
+  - first:
+      213: -7185181091402471474
+    second: finger_attack_effect_atr03_5
+  - first:
+      213: -181021708499999296
+    second: finger_attack_effect_atr03_6
+  - first:
+      213: -1976263452029893530
+    second: finger_attack_effect_atr03_7
+  - first:
+      213: 7715445987820969278
+    second: finger_attack_effect_atr03_8
+  - first:
+      213: -4225191659158311784
+    second: finger_attack_effect_atr03_9
+  - first:
+      213: -6555964603105811576
+    second: finger_attack_effect_atr03_10
+  - first:
+      213: -6134465444440439599
+    second: finger_attack_effect_atr03_11
+  - first:
+      213: 3146091424348159850
+    second: finger_attack_effect_atr03_12
+  - first:
+      213: -503753659919620388
+    second: finger_attack_effect_atr03_13
+  - first:
+      213: 8488738664436657791
+    second: finger_attack_effect_atr03_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 937.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.65163374, y: 0.3007258}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74230a78ce59db310800000000000000
+      internalID: 1422457900439188039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_1
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 937.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.64453113, y: 0.30088827}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a311923dc0f7b7720800000000000000
+      internalID: 2845007282673619258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_2
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 937.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.65651715, y: 0.29108632}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4204e81178c2840800000000000000
+      internalID: 5200680179176842423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_3
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 937.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.64689857, y: 0.30708867}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac386e494134c6940800000000000000
+      internalID: 5290677417930032074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 625.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.6565951, y: 0.30715957}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54044a97d59841230800000000000000
+      internalID: 3608660235996381253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_5
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 625.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.6565079, y: 0.30076212}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec72a18bddb194c90800000000000000
+      internalID: -7185181091402471474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_6
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 625.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.65893745, y: 0.31014413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5293817b1ec7df0800000000000000
+      internalID: -181021708499999296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_7
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 625.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.6516047, y: 0.30735058}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664cb2f6cd6e294e0800000000000000
+      internalID: -1976263452029893530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 313.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.6541943, y: 0.30606562}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d18cb6f35c21b60800000000000000
+      internalID: 7715445987820969278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_9
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 313.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.6492963, y: 0.30406544}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89cecef629a1d55c0800000000000000
+      internalID: -4225191659158311784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 313.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.651436, y: 0.3038849}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883e7dfade88405a0800000000000000
+      internalID: -6555964603105811576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_11
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 314
+        width: 417
+        height: 312
+      alignment: 9
+      pivot: {x: 0.65143, y: 0.30388}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d408391e200edaa0800000000000000
+      internalID: -6134465444440439599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.65398645, y: 0.31076267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fbc235b7929ab20800000000000000
+      internalID: 3146091424348159850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.6562059, y: 0.31052262}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6203e17be4209f0800000000000000
+      internalID: -503753659919620388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger_attack_effect_atr03_14
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1.5
+        width: 416.75
+        height: 312.5
+      alignment: 9
+      pivot: {x: 0.66354495, y: 0.31388536}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7eeedc07de0ec570800000000000000
+      internalID: 8488738664436657791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

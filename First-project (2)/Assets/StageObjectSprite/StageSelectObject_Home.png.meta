@@ -1,0 +1,448 @@
+fileFormatVersion: 2
+guid: ece5a1727eff9314688c67dc33597119
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1239425798094388988
+    second: StageSelectObject_Home_0
+  - first:
+      213: 5320449661667003652
+    second: StageSelectObject_Home_1
+  - first:
+      213: -7413122081992590838
+    second: StageSelectObject_Home_2
+  - first:
+      213: -2358769723334263137
+    second: StageSelectObject_Home_3
+  - first:
+      213: 8711628713728390678
+    second: StageSelectObject_Home_4
+  - first:
+      213: -4296529804732939818
+    second: StageSelectObject_Home_5
+  - first:
+      213: 4877175967577057919
+    second: StageSelectObject_Home_6
+  - first:
+      213: -4063453551177269791
+    second: StageSelectObject_Home_7
+  - first:
+      213: -3018934966073002220
+    second: StageSelectObject_Home_8
+  - first:
+      213: -7966184342415751156
+    second: StageSelectObject_Home_9
+  - first:
+      213: 702978151240033733
+    second: StageSelectObject_Home_10
+  - first:
+      213: 3507589359551186168
+    second: StageSelectObject_Home_11
+  - first:
+      213: 7257627643137561942
+    second: StageSelectObject_Home_12
+  - first:
+      213: -3598979382401863068
+    second: StageSelectObject_Home_13
+  - first:
+      213: -2977280480540344943
+    second: StageSelectObject_Home_14
+  - first:
+      213: -1227884246554071165
+    second: StageSelectObject_Home_15
+  - first:
+      213: 1284635506836174683
+    second: StageSelectObject_Home_16
+  - first:
+      213: -1848677802902273119
+    second: StageSelectObject_Home_17
+  - first:
+      213: -5801271779591426677
+    second: StageSelectObject_Home_18
+  - first:
+      213: 8321441746085588479
+    second: StageSelectObject_Home_19
+  - first:
+      213: -9039589954572948569
+    second: StageSelectObject_Home_20
+  - first:
+      213: -8739935399850713643
+    second: StageSelectObject_Home_21
+  - first:
+      213: 7685623242640190377
+    second: StageSelectObject_Home_22
+  - first:
+      213: 7660546830916999311
+    second: StageSelectObject_Home_23
+  - first:
+      213: 6990513213242697973
+    second: StageSelectObject_Home_24
+  - first:
+      213: 1732139165323528389
+    second: StageSelectObject_Home_25
+  - first:
+      213: -5163252777017402950
+    second: StageSelectObject_Home_26
+  - first:
+      213: 8591348812001955903
+    second: StageSelectObject_Home_27
+  - first:
+      213: -5595853951051359273
+    second: StageSelectObject_Home_28
+  - first:
+      213: 808546481071183168
+    second: StageSelectObject_Home_29
+  - first:
+      213: 9063901232735533937
+    second: StageSelectObject_Home_30
+  - first:
+      213: 5023417991430248995
+    second: StageSelectObject_Home_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StageSelectObject_Home_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 273.5
+        width: 234.8
+        height: 273.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfefed45233533110800000000000000
+      internalID: 1239425798094388988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelectObject_Home_1
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 273.5
+        width: 234.8
+        height: 273.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d420147c806d940800000000000000
+      internalID: 5320449661667003652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelectObject_Home_2
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 273.5
+        width: 234.8
+        height: 273.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a3a3a2ebc4f1990800000000000000
+      internalID: -7413122081992590838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelectObject_Home_3
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 273.5
+        width: 234.8
+        height: 273.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ef6b51f67f34fd0800000000000000
+      internalID: -2358769723334263137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelectObject_Home_4
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 273.5
+        width: 234.8
+        height: 273.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616bfd0b82ce5e870800000000000000
+      internalID: 8711628713728390678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelectObject_Home_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.5
+        width: 234.8
+        height: 273.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1c30618e8af54c0800000000000000
+      internalID: -4296529804732939818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelectObject_Home_6
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 0.5
+        width: 234.8
+        height: 273.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa08eb3b53fa340800000000000000
+      internalID: 4877175967577057919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelectObject_Home_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 0.5
+        width: 234.8
+        height: 273.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed77c83686bb97c0800000000000000
+      internalID: -4063453551177269791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelectObject_Home_8
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 0.5
+        width: 234.8
+        height: 273.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4177633b4a69a16d0800000000000000
+      internalID: -3018934966073002220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StageSelectObject_Home_9
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0.5
+        width: 234.8
+        height: 273.5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08c7071c8d627190800000000000000
+      internalID: -7966184342415751156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

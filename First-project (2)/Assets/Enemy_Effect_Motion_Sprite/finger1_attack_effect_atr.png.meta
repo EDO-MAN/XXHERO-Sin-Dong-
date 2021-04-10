@@ -1,0 +1,527 @@
+fileFormatVersion: 2
+guid: 256711bdab7f15b47aa3d07d43541baa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: finger1_attack_effect_atr_0
+  - first:
+      213: 21300002
+    second: finger1_attack_effect_atr_1
+  - first:
+      213: 21300004
+    second: finger1_attack_effect_atr_2
+  - first:
+      213: 21300006
+    second: finger1_attack_effect_atr_3
+  - first:
+      213: 21300008
+    second: finger1_attack_effect_atr_4
+  - first:
+      213: 21300010
+    second: finger1_attack_effect_atr_5
+  - first:
+      213: 21300012
+    second: finger1_attack_effect_atr_6
+  - first:
+      213: 21300014
+    second: finger1_attack_effect_atr_7
+  - first:
+      213: 3926424316422116765
+    second: finger1_attack_effect_atr_0
+  - first:
+      213: 8893887881839659007
+    second: finger1_attack_effect_atr_1
+  - first:
+      213: -1740598637405106026
+    second: finger1_attack_effect_atr_2
+  - first:
+      213: 812037932340208288
+    second: finger1_attack_effect_atr_3
+  - first:
+      213: -413222654005148947
+    second: finger1_attack_effect_atr_4
+  - first:
+      213: -4575664783956988044
+    second: finger1_attack_effect_atr_5
+  - first:
+      213: -5835244936972957559
+    second: finger1_attack_effect_atr_6
+  - first:
+      213: -7460403908930268501
+    second: finger1_attack_effect_atr_7
+  - first:
+      213: 4700219142065430289
+    second: finger1_attack_effect_atr_8
+  - first:
+      213: -1765818072776570140
+    second: finger1_attack_effect_atr_9
+  - first:
+      213: -2270905546399574786
+    second: finger1_attack_effect_atr_10
+  - first:
+      213: -1781331511135489758
+    second: finger1_attack_effect_atr_11
+  - first:
+      213: -2168485847034212006
+    second: finger1_attack_effect_atr_12
+  - first:
+      213: 1214128183676298069
+    second: finger1_attack_effect_atr_13
+  - first:
+      213: 6222047946005049816
+    second: finger1_attack_effect_atr_14
+  - first:
+      213: 4467126401346031947
+    second: finger1_attack_effect_atr_15
+  - first:
+      213: -5186572738270094899
+    second: finger1_attack_effect_atr_16
+  - first:
+      213: 6148171778007919189
+    second: finger1_attack_effect_atr_17
+  - first:
+      213: -1606994862695206092
+    second: finger1_attack_effect_atr_18
+  - first:
+      213: 759633894502631338
+    second: finger1_attack_effect_atr_19
+  - first:
+      213: -2850271317322327149
+    second: finger1_attack_effect_atr_20
+  - first:
+      213: -8460185272880220267
+    second: finger1_attack_effect_atr_21
+  - first:
+      213: 3628573377998657103
+    second: finger1_attack_effect_atr_22
+  - first:
+      213: -7321964059624003454
+    second: finger1_attack_effect_atr_23
+  - first:
+      213: 8900208797139035494
+    second: finger1_attack_effect_atr_24
+  - first:
+      213: -8327550142465307572
+    second: finger1_attack_effect_atr_25
+  - first:
+      213: -2995221300653246664
+    second: finger1_attack_effect_atr_26
+  - first:
+      213: -6684130356693516789
+    second: finger1_attack_effect_atr_27
+  - first:
+      213: 7520135675100941137
+    second: finger1_attack_effect_atr_28
+  - first:
+      213: -7372291668894138073
+    second: finger1_attack_effect_atr_29
+  - first:
+      213: 803307825466350019
+    second: finger1_attack_effect_atr_30
+  - first:
+      213: 4754528304415220197
+    second: finger1_attack_effect_atr_31
+  - first:
+      213: -6851611808996169369
+    second: finger1_attack_effect_atr_32
+  - first:
+      213: 2139957514930068753
+    second: finger1_attack_effect_atr_33
+  - first:
+      213: -5294117091658300531
+    second: finger1_attack_effect_atr_34
+  - first:
+      213: 5774528940026674178
+    second: finger1_attack_effect_atr_35
+  - first:
+      213: -622682373343237307
+    second: finger1_attack_effect_atr_36
+  - first:
+      213: -7684220646053822244
+    second: finger1_attack_effect_atr_37
+  - first:
+      213: -1328037373407927506
+    second: finger1_attack_effect_atr_38
+  - first:
+      213: -5952303085729997365
+    second: finger1_attack_effect_atr_39
+  - first:
+      213: 1113215895288083078
+    second: finger1_attack_effect_atr_40
+  - first:
+      213: -8578193371925892802
+    second: finger1_attack_effect_atr_41
+  - first:
+      213: -8476276278830661475
+    second: finger1_attack_effect_atr_42
+  - first:
+      213: -1059593667384807351
+    second: finger1_attack_effect_atr_43
+  - first:
+      213: 1766877927540811280
+    second: finger1_attack_effect_atr_44
+  - first:
+      213: -8767168306420020162
+    second: finger1_attack_effect_atr_45
+  - first:
+      213: 1337363970541028737
+    second: finger1_attack_effect_atr_46
+  - first:
+      213: -7347593230122312503
+    second: finger1_attack_effect_atr_47
+  - first:
+      213: -3832075641674796838
+    second: finger1_attack_effect_atr_48
+  - first:
+      213: -402996101587660743
+    second: finger1_attack_effect_atr_49
+  - first:
+      213: -5438579132365322169
+    second: finger1_attack_effect_atr_50
+  - first:
+      213: -8333567844817255490
+    second: finger1_attack_effect_atr_51
+  - first:
+      213: -4122450483752969338
+    second: finger1_attack_effect_atr_52
+  - first:
+      213: 345882638417252254
+    second: finger1_attack_effect_atr_53
+  - first:
+      213: -2913436584987272851
+    second: finger1_attack_effect_atr_54
+  - first:
+      213: 3460182835737661254
+    second: finger1_attack_effect_atr_55
+  - first:
+      213: 457554736619047267
+    second: finger1_attack_effect_atr_56
+  - first:
+      213: 7052036898976565416
+    second: finger1_attack_effect_atr_57
+  - first:
+      213: -7533133334560519792
+    second: finger1_attack_effect_atr_58
+  - first:
+      213: -8830303052603999492
+    second: finger1_attack_effect_atr_59
+  - first:
+      213: 6409883904983782951
+    second: finger1_attack_effect_atr_60
+  - first:
+      213: 2748474170468839575
+    second: finger1_attack_effect_atr_61
+  - first:
+      213: -7104725238296593031
+    second: finger1_attack_effect_atr_62
+  - first:
+      213: -367083578496851422
+    second: finger1_attack_effect_atr_63
+  - first:
+      213: -1139500943080081103
+    second: finger1_attack_effect_atr_64
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: finger1_attack_effect_atr_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 856
+        width: 830
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d95dbc9dc167d7630800000000000000
+      internalID: 3926424316422116765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger1_attack_effect_atr_1
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 859
+        width: 830
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7443d18ef6d6b70800000000000000
+      internalID: 8893887881839659007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger1_attack_effect_atr_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 541
+        width: 830
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69090f8e2c628d7e0800000000000000
+      internalID: -1740598637405106026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger1_attack_effect_atr_3
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 553
+        width: 830
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2e7457230f44b00800000000000000
+      internalID: 812037932340208288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger1_attack_effect_atr_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 264
+        width: 830
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de201ee7f20f34af0800000000000000
+      internalID: -413222654005148947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger1_attack_effect_atr_5
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 259
+        width: 830
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47faaf43f19ff70c0800000000000000
+      internalID: -4575664783956988044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger1_attack_effect_atr_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 830
+        height: 289.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988845275ab050fa0800000000000000
+      internalID: -5835244936972957559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: finger1_attack_effect_atr_7
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 0.75
+        width: 830
+        height: 289.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba29647fb22577890800000000000000
+      internalID: -7460403908930268501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b1c0d9e75a3c3b447b251bd68f28484c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
