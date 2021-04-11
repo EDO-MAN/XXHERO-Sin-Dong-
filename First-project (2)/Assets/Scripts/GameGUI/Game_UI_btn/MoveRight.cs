@@ -17,6 +17,7 @@ public class MoveRight : MonoBehaviour
     IEnumerator Move_Right()
     {
         player.transform.DOMove(Vector2.right, 2f);
+        print("MoveRight");
         yield return null;
     }
 }

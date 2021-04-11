@@ -11,7 +11,6 @@ public class MoveUp : MonoBehaviour
     {
         Debug.Log("PlayerTrun");
         //이부분이 오류나는거 같아요. 전체적인 이동 함수에서
-        
         StartCoroutine(Move_Up());
     }
     IEnumerator Move_Up()
@@ -20,6 +19,7 @@ public class MoveUp : MonoBehaviour
         //Vector3 target_Up = new Vector3(player.transform.position.x, player.transform.position.y + 1.0f, 0.5f);
         //player.transform.position = Vector3.MoveTowards(player.transform.position, target_Up, 1.08f);
         player.transform.DOMove(Vector2.up, 2f);
+        print("MoveUp");
         yield return null;
     }
 }

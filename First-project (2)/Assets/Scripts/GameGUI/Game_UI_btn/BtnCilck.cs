@@ -6,6 +6,7 @@ public class BtnCilck : MonoBehaviour
 {
     public Transform slots;
     public float term;
+    int n = 0;
 
     public void ClickSkill()
     {
@@ -33,6 +34,8 @@ public class BtnCilck : MonoBehaviour
     IEnumerator EnemyTurnCoroutine()
     {
         Debug.Log("EnemyTurn");
+        Debug.Log($"{n++}");
         yield return new WaitForSeconds(term);
+
     }
 }
