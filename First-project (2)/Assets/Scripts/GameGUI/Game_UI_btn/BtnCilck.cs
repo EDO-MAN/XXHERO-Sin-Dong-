@@ -2,9 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using System;
+using DG.Tweening;
+
 public class BtnCilck : MonoBehaviour
 {
     public Transform slots;
+    public GameObject player;
     public float term;
     int n = 0;
 
@@ -13,20 +17,28 @@ public class BtnCilck : MonoBehaviour
         GameObject clickBtn = EventSystem.current.currentSelectedGameObject;
         Instantiate(Resources.Load(clickBtn.name), slots);
     }
-    // Update is called once per frame
     public void ClickPlay()
     {
-        StartCoroutine("PlaySkill");
-    }
-    IEnumerator PlaySkill()
-    {
-        for (int i = 0; i < 3/*slots.childCount*/; i++)
+        for (int i = 0; i < slots.childCount; i++) 
         {
-            slots.GetChild(i).SendMessage("SkillStart");
-            yield return new WaitForSeconds(term);
-            EnemyTurn();
+            player.transform.position = slots.GetChild(i).GetComponent<Card>;
         }
     }
+
+    //public void ClickPlay()
+    //{
+    //    StartCoroutine("PlaySkill");
+    //}
+    //IEnumerator PlaySkill()
+    //{
+    //    for (int i = 0; i < 3/*slots.childCount*/; i++)
+    //    {
+    //        //slots.GetChild(i).SendMessage("SkillStart");
+    //        player.transform.position = slots.GetChild(i).GetComponent<MoveCard>.move;
+    //        yield return new WaitForSeconds(term);
+    //        EnemyTurn();
+    //    }
+    //}
     void EnemyTurn()
     {
         StartCoroutine(EnemyTurnCoroutine());
