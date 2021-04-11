@@ -21,7 +21,7 @@ public class BtnCilck : MonoBehaviour
     {
         for (int i = 0; i < slots.childCount; i++) 
         {
-            player.transform.position = slots.GetChild(i).GetComponent<Card>;
+            player.transform.position = slots.GetChild(i).GetComponent<Card>().UseCard(Transform playerPos);
         }
     }
 
