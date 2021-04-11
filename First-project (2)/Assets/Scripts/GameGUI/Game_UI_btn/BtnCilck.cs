@@ -19,8 +19,7 @@ public class BtnCilck : MonoBehaviour
     }
     IEnumerator PlaySkill()
     {
-       
-        for (int i = 0; i < slots.childCount; i++)
+        for (int i = 0; i < 3/*slots.childCount*/; i++)
         {
             slots.GetChild(i).SendMessage("SkillStart");
             yield return new WaitForSeconds(term);

@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DG.Tweening;
 
 public class MoveRight : MonoBehaviour
 {
@@ -9,5 +10,7 @@ public class MoveRight : MonoBehaviour
     public void SkillStart()
     {
         Debug.Log("PlayerTrun");
+        player.transform.DOMove(Vector2.right, 2f);
+
     }
 }

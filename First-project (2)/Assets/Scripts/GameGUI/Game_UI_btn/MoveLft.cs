@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using DG.Tweening;
 
 public class MoveLft : MonoBehaviour
 {
@@ -10,5 +11,6 @@ public class MoveLft : MonoBehaviour
     public void SkillStart()
     {
         Debug.Log("PlayerTrun");
+        player.transform.DOMove(Vector2.left, 2f);
     }
 }
