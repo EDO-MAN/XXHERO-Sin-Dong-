@@ -10,6 +10,7 @@ public class MoveUp : MonoBehaviour
     public void SkillStart()
     {
         Debug.Log("PlayerTrun");
+        //이부분이 오류나는거 같아요. 전체적인 이동 함수에서
         player.transform.DOMove(Vector2.up, 2f);
         //StartCoroutine(Move_Up());
     }
