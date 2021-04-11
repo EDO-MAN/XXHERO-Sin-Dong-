@@ -12,6 +12,11 @@ public class MoveLft : MonoBehaviour
     {
         Debug.Log("PlayerTrun");
         //이부분이 오류나는거 같아요. 전체적인 이동 함수에서
+        StartCoroutine(Move_Left());
+    }
+    IEnumerator Move_Left()
+    {
         player.transform.DOMove(Vector2.left, 2f);
+        yield return null;
     }
 }

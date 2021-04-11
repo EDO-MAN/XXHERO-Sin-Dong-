@@ -12,7 +12,12 @@ public class MoveDown : MonoBehaviour
         //Vector3 target_Down = new Vector3(player.transform.position.x, player.transform.position.y - 1.0f, 0.5f);
         //player.transform.position = Vector3.MoveTowards(player.transform.position, target_Down, 1.08f);
         //이부분이 오류나는거 같아요. 전체적인 이동 함수에서
-        player.transform.DOMove(Vector2.down, 2f);
+        StartCoroutine(Move_Down());
         print("MoveDown");
+    }
+    IEnumerator Move_Down()
+    {
+        player.transform.DOMove(Vector2.down, 2f);
+        yield return null;
     }
 }

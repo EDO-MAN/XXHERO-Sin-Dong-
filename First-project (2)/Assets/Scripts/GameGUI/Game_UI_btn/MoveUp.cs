@@ -11,15 +11,15 @@ public class MoveUp : MonoBehaviour
     {
         Debug.Log("PlayerTrun");
         //이부분이 오류나는거 같아요. 전체적인 이동 함수에서
-        player.transform.DOMove(Vector2.up, 2f);
-        //StartCoroutine(Move_Up());
+        
+        StartCoroutine(Move_Up());
     }
-    //IEnumerator Move_Up()
-    //{
-    //    //Debug.Log("moveUp");
-    //    //Vector3 target_Up = new Vector3(player.transform.position.x, player.transform.position.y + 1.0f, 0.5f);
-    //    //player.transform.position = Vector3.MoveTowards(player.transform.position, target_Up, 1.08f);
-    //    player.transform.DOMove(Vector2.up, 2f);
-    //    yield return null;
-    //}
+    IEnumerator Move_Up()
+    {
+        //Debug.Log("moveUp");
+        //Vector3 target_Up = new Vector3(player.transform.position.x, player.transform.position.y + 1.0f, 0.5f);
+        //player.transform.position = Vector3.MoveTowards(player.transform.position, target_Up, 1.08f);
+        player.transform.DOMove(Vector2.up, 2f);
+        yield return null;
+    }
 }

@@ -11,7 +11,12 @@ public class MoveRight : MonoBehaviour
     {
         Debug.Log("PlayerTrun");
         //이부분이 오류나는거 같아요. 전체적인 이동 함수에서
-        player.transform.DOMove(Vector2.right, 2f);
+        StartCoroutine(Move_Right());
 
+    }
+    IEnumerator Move_Right()
+    {
+        player.transform.DOMove(Vector2.right, 2f);
+        yield return null;
     }
 }
