@@ -8,7 +8,7 @@ using DG.Tweening;
 
 public class Card : MonoBehaviour
 {
-    public virtual void UseCard()
+    public virtual void UseCard(Transform playerPos)
     {
         // 디폴트
         Console.WriteLine("디폴트");
@@ -16,41 +16,37 @@ public class Card : MonoBehaviour
 }
 class UpCard : Card
 {
-    public override void UseCard()
+    public override void UseCard(Transform playerPos)
     {
-
+        playerPos.transform.DOMove(Vector2.up, 2f);
     }
 }
 class DownCard : Card
 {
-    public override void UseCard()
+    public override void UseCard(Transform playerPos)
     {
-
+        playerPos.transform.DOMove(Vector2.down, 2f);
     }
 }
 class LeftCard : Card
 {
-    public override void UseCard()
+    public override void UseCard(Transform playerPos)
     {
-
+        playerPos.transform.DOMove(Vector2.left, 2f);
     }
 }
+
 class RightCard : Card
 {
-    public override void UseCard()
+    public override void UseCard(Transform playerPos)
     {
-
+        playerPos.transform.DOMove(Vector2.right, 2f);
     }
 }
-class AttackCard : Card
-{
-    public override void UseCard()
-    {
 
-    }
-}
 class Program
 {
+    public static Transform playerPos;
     public static void Main(string[] args)
     {
 
@@ -60,12 +56,11 @@ class Program
             new UpCard(),
             new RightCard(),
             new DownCard(),
-            new AttackCard(),
             new LeftCard(),
         };
         for (int i = 0; i < cardCase.Length; i++)
         {
-            cardCase[i].UseCard();
+            cardCase[i].UseCard(playerPos);
         }
     }
 }
