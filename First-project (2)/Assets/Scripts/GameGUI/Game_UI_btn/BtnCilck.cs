@@ -21,7 +21,7 @@ public class BtnCilck : MonoBehaviour
     {
         for (int i = 0; i < slots.childCount; i++) 
         {
-            player.transform.position = slots.GetChild(i).GetComponent<Card>().UseCard(Transform player);
+            player.transform.position = slots.GetChild(i).GetComponent<Card>().UseCard(player);
         }
     }
 
@@ -46,7 +46,6 @@ public class BtnCilck : MonoBehaviour
     IEnumerator EnemyTurnCoroutine()
     {
         Debug.Log("EnemyTurn");
-        Debug.Log($"{n++}");
         yield return new WaitForSeconds(term);
 
     }

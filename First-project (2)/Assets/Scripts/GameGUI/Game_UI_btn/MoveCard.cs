@@ -46,10 +46,8 @@ class RightCard : Card
 
 class Program
 {
-    public static Transform playerPos;
     public static void Main(string[] args)
     {
-
         Card[] cardCase = new Card[]
         {
             new LeftCard(),
