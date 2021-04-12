@@ -6,19 +6,16 @@ using DG.Tweening;
 public class MoveUp : MonoBehaviour
 {
     public GameObject player;
-    //Vector3 var = Vector3.zero;
-    public Vector2 move = Vector2.up;
+
     public void SkillStart()
     {
-        Debug.Log("PlayerTrun");
-        StartCoroutine(Move_Up(player.transform));
+        Debug.Log("플레이어턴.위");
+        StartCoroutine(Move_Up());
     }
-    IEnumerator Move_Up(Transform tr)
+
+    IEnumerator Move_Up()
     {
-        //Debug.Log("moveUp");
-        //Vector3 target_Up = new Vector3(player.transform.position.x, player.transform.position.y + 1.0f, 0.5f);
-        //player.transform.position = Vector3.MoveTowards(player.transform.position, target_Up, 1.08f);
-        tr.transform.DOMove(move, 2f);
+        player.transform.DOMove(Vector2.up, 2f);
         print("MoveUp");
         yield return null;
     }

@@ -6,12 +6,10 @@ using DG.Tweening;
 public class MoveRight : MonoBehaviour
 {
     public GameObject player;
-    //Vector3 var = Vector3.zero;
     public void SkillStart()
     {
-        Debug.Log("PlayerTrun");
+        Debug.Log("플레이어턴.오른쪽");
         StartCoroutine(Move_Right());
-
     }
     IEnumerator Move_Right()
     {

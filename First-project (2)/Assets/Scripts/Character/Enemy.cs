@@ -13,7 +13,7 @@ public class Enemy : MonoBehaviour
     
 
     [SerializeField]
-    private float timer = 0.0f;
+    //private float timer = 0.0f;
 
     public const float value = 0.38f;
 
