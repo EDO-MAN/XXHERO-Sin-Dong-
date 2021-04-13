@@ -1,13 +1,31 @@
 fileFormatVersion: 2
-guid: f898fe81beb55fd48b82d841b7708022
+guid: ca338641d707f2541b64643269a368c2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7220341862620288359
-    second: hero_behit_second_0
+      213: 21300000
+    second: hero_standing_0
   - first:
-      213: 8604205990946431927
-    second: hero_behit_second_1
+      213: 21300002
+    second: hero_standing_1
+  - first:
+      213: 21300004
+    second: hero_standing_2
+  - first:
+      213: 21300006
+    second: hero_standing_3
+  - first:
+      213: 21300008
+    second: hero_standing_4
+  - first:
+      213: 21300010
+    second: hero_standing_5
+  - first:
+      213: 21300012
+    second: hero_standing_6
+  - first:
+      213: 21300014
+    second: hero_standing_7
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -52,7 +70,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 45
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -65,7 +83,7 @@ TextureImporter:
   compressionQualitySet: 0
   textureFormatSet: 0
   ignorePngGamma: 0
-  applyGammaDecoding: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -131,13 +149,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hero_behit_second_0
+      name: hero_standing_0
       rect:
         serializedVersion: 2
-        x: 27
-        y: 2
-        width: 81
-        height: 151
+        x: 31
+        y: 0
+        width: 74
+        height: 156
       alignment: 9
       pivot: {x: 0.35, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -145,20 +163,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7655d564baec33460800000000000000
-      internalID: 7220341862620288359
+      spriteID: ae7157d429a53514f94a6960af32c922
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero_behit_second_1
+      name: hero_standing_1
       rect:
         serializedVersion: 2
-        x: 131
-        y: 3
-        width: 81
-        height: 151
+        x: 159
+        y: 0
+        width: 74
+        height: 156
       alignment: 9
       pivot: {x: 0.35, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -166,8 +184,134 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7b366a003c7486770800000000000000
-      internalID: 8604205990946431927
+      spriteID: a4545f1dd9dfd0f489b134e8a65216e0
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_standing_2
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 0
+        width: 74
+        height: 156
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff690e349e143747a51d6ecdf472b9c
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_standing_3
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 0
+        width: 74
+        height: 156
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b4be65ee7897b4c9fd8368ad2add59
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_standing_4
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 0
+        width: 74
+        height: 156
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659b961b441482b4498e806ac0fd1af0
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_standing_5
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 0
+        width: 74
+        height: 156
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7425e3136ede47e4085bab1b261edb6d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_standing_6
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 0
+        width: 74
+        height: 156
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91505fb31c532024dbab1974e85c8404
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hero_standing_7
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 0
+        width: 74
+        height: 156
+      alignment: 9
+      pivot: {x: 0.35, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10929bd31beeb3942b9a2d243509fb7b
+      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -175,7 +319,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: d978a317e84c011459833c2ab92751e4
     internalID: 0
     vertices: []
     indices: 

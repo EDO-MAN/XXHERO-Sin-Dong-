@@ -1,31 +1,19 @@
 fileFormatVersion: 2
-guid: ca338641d707f2541b64643269a368c2
+guid: c6fe1909cfd0c4e45be3c3b56af79181
 TextureImporter:
   internalIDToNameTable:
   - first:
       213: 21300000
-    second: hero_standing_0
+    second: hero_behit_0
   - first:
       213: 21300002
-    second: hero_standing_1
+    second: hero_behit_1
   - first:
       213: 21300004
-    second: hero_standing_2
+    second: hero_behit_2
   - first:
       213: 21300006
-    second: hero_standing_3
-  - first:
-      213: 21300008
-    second: hero_standing_4
-  - first:
-      213: 21300010
-    second: hero_standing_5
-  - first:
-      213: 21300012
-    second: hero_standing_6
-  - first:
-      213: 21300014
-    second: hero_standing_7
+    second: hero_behit_3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -47,6 +35,7 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -69,7 +58,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 45
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -81,6 +70,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
@@ -94,7 +84,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
     maxTextureSize: 2048
@@ -106,7 +96,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
     maxTextureSize: 2048
@@ -118,7 +108,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
     maxTextureSize: 2048
@@ -130,7 +120,7 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
     maxTextureSize: 2048
@@ -142,174 +132,90 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 1
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: hero_standing_0
+      name: hero_behit_0
       rect:
         serializedVersion: 2
-        x: 31
+        x: 32
         y: 0
-        width: 74
-        height: 156
+        width: 70
+        height: 149
       alignment: 9
-      pivot: {x: 0.35, y: 0}
+      pivot: {x: 0.44713625, y: 0.0041516926}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ae7157d429a53514f94a6960af32c922
+      spriteID: 0dff8bfb7e6004f448aba992e110dc35
       internalID: 21300000
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero_standing_1
+      name: hero_behit_1
       rect:
         serializedVersion: 2
-        x: 159
+        x: 117
         y: 0
-        width: 74
-        height: 156
+        width: 73
+        height: 149
       alignment: 9
-      pivot: {x: 0.35, y: 0}
+      pivot: {x: 0.447, y: 0.0004}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a4545f1dd9dfd0f489b134e8a65216e0
+      spriteID: 6b93b8c8ffaf7654d8745af75176b0ed
       internalID: 21300002
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero_standing_2
+      name: hero_behit_2
       rect:
         serializedVersion: 2
-        x: 287
+        x: 209
         y: 0
-        width: 74
-        height: 156
+        width: 73
+        height: 149
       alignment: 9
-      pivot: {x: 0.35, y: 0}
+      pivot: {x: 0.447, y: 0.0004}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ff690e349e143747a51d6ecdf472b9c
+      spriteID: 1b54e9b4f64e8af4088d45bf25ecc885
       internalID: 21300004
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: hero_standing_3
+      name: hero_behit_3
       rect:
         serializedVersion: 2
-        x: 415
+        x: 295
         y: 0
-        width: 74
-        height: 156
+        width: 73
+        height: 149
       alignment: 9
-      pivot: {x: 0.35, y: 0}
+      pivot: {x: 0.447, y: 0.0004}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c6b4be65ee7897b4c9fd8368ad2add59
+      spriteID: 6fbbd70bf47aed74eb164d199df43bf2
       internalID: 21300006
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hero_standing_4
-      rect:
-        serializedVersion: 2
-        x: 543
-        y: 0
-        width: 74
-        height: 156
-      alignment: 9
-      pivot: {x: 0.35, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 659b961b441482b4498e806ac0fd1af0
-      internalID: 21300008
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hero_standing_5
-      rect:
-        serializedVersion: 2
-        x: 671
-        y: 0
-        width: 74
-        height: 156
-      alignment: 9
-      pivot: {x: 0.35, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7425e3136ede47e4085bab1b261edb6d
-      internalID: 21300010
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hero_standing_6
-      rect:
-        serializedVersion: 2
-        x: 799
-        y: 0
-        width: 74
-        height: 156
-      alignment: 9
-      pivot: {x: 0.35, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 91505fb31c532024dbab1974e85c8404
-      internalID: 21300012
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: hero_standing_7
-      rect:
-        serializedVersion: 2
-        x: 927
-        y: 0
-        width: 74
-        height: 156
-      alignment: 9
-      pivot: {x: 0.35, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10929bd31beeb3942b9a2d243509fb7b
-      internalID: 21300014
       vertices: []
       indices: 
       edges: []
@@ -317,7 +223,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: d978a317e84c011459833c2ab92751e4
+    spriteID: eec9577a63d988c418386c42344b9490
     internalID: 0
     vertices: []
     indices: 

@@ -1,52 +1,55 @@
 fileFormatVersion: 2
-guid: 2788492a72766f0479966af2ce74d184
+guid: d0fb783002618ff44a7a2bee886a63bb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 1422457900439188039
-    second: finger_attack_effect_atr03_0
+      213: -7509403571081831836
+    second: _latforms_0
   - first:
-      213: 2845007282673619258
-    second: finger_attack_effect_atr03_1
+      213: 1579340661859408025
+    second: _latforms_1
   - first:
-      213: 5200680179176842423
-    second: finger_attack_effect_atr03_2
+      213: -3060939268928648591
+    second: _latforms_2
   - first:
-      213: 5290677417930032074
-    second: finger_attack_effect_atr03_3
+      213: -5187613335171471003
+    second: _latforms_3
   - first:
-      213: 3608660235996381253
-    second: finger_attack_effect_atr03_4
+      213: -1529641583531039660
+    second: _latforms_4
   - first:
-      213: -7185181091402471474
-    second: finger_attack_effect_atr03_5
+      213: -5205059390167993713
+    second: _latforms_5
   - first:
-      213: -181021708499999296
-    second: finger_attack_effect_atr03_6
+      213: -1988777004435117147
+    second: _latforms_6
   - first:
-      213: -1976263452029893530
-    second: finger_attack_effect_atr03_7
+      213: -9167507751369869576
+    second: _latforms_7
   - first:
-      213: 7715445987820969278
-    second: finger_attack_effect_atr03_8
+      213: -5354575440196896177
+    second: _latforms_8
   - first:
-      213: -4225191659158311784
-    second: finger_attack_effect_atr03_9
+      213: 6816380292499159063
+    second: _latforms_9
   - first:
-      213: -6555964603105811576
-    second: finger_attack_effect_atr03_10
+      213: -618919544373769024
+    second: _latforms_10
   - first:
-      213: -6134465444440439599
-    second: finger_attack_effect_atr03_11
+      213: 1923784579193878864
+    second: _latforms_11
   - first:
-      213: 3146091424348159850
-    second: finger_attack_effect_atr03_12
+      213: 2208547081106110582
+    second: _latforms_12
   - first:
-      213: -503753659919620388
-    second: finger_attack_effect_atr03_13
+      213: 134979127436405860
+    second: _latforms_13
   - first:
-      213: 8488738664436657791
-    second: finger_attack_effect_atr03_14
+      213: 7874614110669099398
+    second: _latforms_14
+  - first:
+      213: -4241748866130299652
+    second: _latforms_15
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -108,7 +111,7 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -120,7 +123,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -132,7 +135,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: iPhone
-    maxTextureSize: 2048
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -144,7 +147,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
-    maxTextureSize: 2048
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -156,7 +159,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: WebGL
-    maxTextureSize: 2048
+    maxTextureSize: 128
     resizeAlgorithm: 0
     textureFormat: -1
     textureCompression: 0
@@ -170,316 +173,377 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_0
+      name: _latforms_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 937.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.65163374, y: 0.3007258}
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
       tessellationDetail: 0
       bones: []
-      spriteID: 74230a78ce59db310800000000000000
-      internalID: 1422457900439188039
+      spriteID: 46a1e961d3d39c790800000000000000
+      internalID: -7509403571081831836
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_1
+      name: _latforms_1
       rect:
         serializedVersion: 2
-        x: 416
-        y: 937.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.64453113, y: 0.30088827}
+        x: 17
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
       tessellationDetail: 0
       bones: []
-      spriteID: a311923dc0f7b7720800000000000000
-      internalID: 2845007282673619258
+      spriteID: 998d579d6f1fae510800000000000000
+      internalID: 1579340661859408025
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_2
+      name: _latforms_2
       rect:
         serializedVersion: 2
-        x: 832
-        y: 937.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.65651715, y: 0.29108632}
+        x: 34
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 7}
       tessellationDetail: 0
       bones: []
-      spriteID: 7b4204e81178c2840800000000000000
-      internalID: 5200680179176842423
+      spriteID: 17ac674d3fb5585d0800000000000000
+      internalID: -3060939268928648591
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_3
-      rect:
-        serializedVersion: 2
-        x: 1248
-        y: 937.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.64689857, y: 0.30708867}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: ac386e494134c6940800000000000000
-      internalID: 5290677417930032074
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: finger_attack_effect_atr03_4
+      name: _latforms_3
       rect:
         serializedVersion: 2
         x: 0
-        y: 625.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.6565951, y: 0.30715957}
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -7, y: 7}
+        - {x: -7, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
       tessellationDetail: 0
       bones: []
-      spriteID: 54044a97d59841230800000000000000
-      internalID: 3608660235996381253
+      spriteID: 56966052825e108b0800000000000000
+      internalID: -5187613335171471003
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_5
+      name: _latforms_4
       rect:
         serializedVersion: 2
-        x: 416
-        y: 625.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.6565079, y: 0.30076212}
+        x: 17
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 7}
       tessellationDetail: 0
       bones: []
-      spriteID: ec72a18bddb194c90800000000000000
-      internalID: -7185181091402471474
+      spriteID: 45467fb851f95cae0800000000000000
+      internalID: -1529641583531039660
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_6
+      name: _latforms_5
       rect:
         serializedVersion: 2
-        x: 832
-        y: 625.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.65893745, y: 0.31014413}
+        x: 34
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: 7}
+        - {x: -8, y: -8}
+        - {x: 7, y: -8}
+        - {x: 7, y: 7}
       tessellationDetail: 0
       bones: []
-      spriteID: 0c5293817b1ec7df0800000000000000
-      internalID: -181021708499999296
+      spriteID: f82b93eef0ae3c7b0800000000000000
+      internalID: -5205059390167993713
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_7
+      name: _latforms_6
       rect:
         serializedVersion: 2
-        x: 1248
-        y: 625.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.6516047, y: 0.30735058}
+        x: 1
+        y: 51
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 664cb2f6cd6e294e0800000000000000
-      internalID: -1976263452029893530
+      spriteID: 5abed29f9d17664e0800000000000000
+      internalID: -1988777004435117147
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_8
+      name: _latforms_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f675fb854876c080800000000000000
+      internalID: -9167507751369869576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _latforms_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a7804c10ab0b5b0800000000000000
+      internalID: -5354575440196896177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _latforms_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 34
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 718b264e2c5a89e50800000000000000
+      internalID: 6816380292499159063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _latforms_10
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc0e0d14f72967f0800000000000000
+      internalID: -618919544373769024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _latforms_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 34
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059b933d1e7a2ba10800000000000000
+      internalID: 1923784579193878864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: _latforms_12
       rect:
         serializedVersion: 2
         x: 0
-        y: 313.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.6541943, y: 0.30606562}
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: e3d18cb6f35c21b60800000000000000
-      internalID: 7715445987820969278
+      spriteID: 6783e0f6ed556ae10800000000000000
+      internalID: 2208547081106110582
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_9
+      name: _latforms_13
       rect:
         serializedVersion: 2
-        x: 416
-        y: 313.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.6492963, y: 0.30406544}
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
       tessellationDetail: 0
       bones: []
-      spriteID: 89cecef629a1d55c0800000000000000
-      internalID: -4225191659158311784
+      spriteID: 46c60fe1dca8fd100800000000000000
+      internalID: 134979127436405860
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_10
+      name: _latforms_14
       rect:
         serializedVersion: 2
-        x: 832
-        y: 313.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.651436, y: 0.3038849}
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -1, y: 8}
+        - {x: -8, y: 1}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 883e7dfade88405a0800000000000000
-      internalID: -6555964603105811576
+      spriteID: 681d5b9efcf384d60800000000000000
+      internalID: 7874614110669099398
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: finger_attack_effect_atr03_11
-      rect:
-        serializedVersion: 2
-        x: 1249
-        y: 314
-        width: 417
-        height: 312
-      alignment: 9
-      pivot: {x: 0.65143, y: 0.30388}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d408391e200edaa0800000000000000
-      internalID: -6134465444440439599
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: finger_attack_effect_atr03_12
+      name: _latforms_15
       rect:
         serializedVersion: 2
         x: 0
-        y: 1.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.65398645, y: 0.31076267}
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
-      physicsShape: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 1}
+        - {x: 1, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: a6fbc235b7929ab20800000000000000
-      internalID: 3146091424348159850
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: finger_attack_effect_atr03_13
-      rect:
-        serializedVersion: 2
-        x: 416
-        y: 1.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.6562059, y: 0.31052262}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd6203e17be4209f0800000000000000
-      internalID: -503753659919620388
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: finger_attack_effect_atr03_14
-      rect:
-        serializedVersion: 2
-        x: 832
-        y: 1.5
-        width: 416.75
-        height: 312.5
-      alignment: 9
-      pivot: {x: 0.66354495, y: 0.31388536}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: f7eeedc07de0ec570800000000000000
-      internalID: 8488738664436657791
+      spriteID: cf433e741e74225c0800000000000000
+      internalID: -4241748866130299652
       vertices: []
       indices: 
       edges: []
